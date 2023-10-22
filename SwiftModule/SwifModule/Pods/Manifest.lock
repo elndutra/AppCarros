@@ -1,0 +1,18 @@
+PODS:
+  - Core (0.1.0):
+    - Core/Release (= 0.1.0)
+  - Core/Release (0.1.0)
+
+DEPENDENCIES:
+  - "Core (from `../Modularização/Core/`)"
+
+EXTERNAL SOURCES:
+  Core:
+    :path: "../Modularização/Core/"
+
+SPEC CHECKSUMS:
+  Core: 7765468d9c26b864f8cf2789d5fd1bc4b68cf8dd
+
+PODFILE CHECKSUM: f61032e148c1c2b1fe6c1d7d55419fafd5d7e9bd
+
+COCOAPODS: 1.13.0
